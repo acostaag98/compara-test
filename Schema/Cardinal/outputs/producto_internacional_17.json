@@ -1,0 +1,70 @@
+{
+    "producto": "Internacional 17",
+    "monto_maximo_global": "USD 17.000",
+    "asistencia_medica": {
+        "accidente": "USD 17.000",
+        "enfermedad_no_preexistente": "USD 17.000",
+        "covid19": "USD 1.000",
+        "preexistencias": "Hasta USD 500",
+        "especialistas": "Incluido",
+        "embarazo": "Incluido hasta semana 26",
+        "odontologia_urgencia": "USD 400",
+        "medicamentos": "USD 500",
+        "examenes_medicos": "Incluido",
+        "terapias_recuperacion": "Incluido",
+        "internacion": "Incluido",
+        "dias_complementarios": "2 días (hasta 30 días) / 5 días (más de 30 días)",
+        "intervenciones_quirurgicas": "Incluido",
+        "terapia_intensiva": "Incluido"
+    },
+    "hospitalario": {
+        "traslados_sanitarios": "Incluido",
+        "repatriacion_sanitaria": "Incluido",
+        "repatriacion_funeraria": "Incluido",
+        "acompanamiento_menores": "Incluido",
+        "traslado_familiar": "Incluido",
+        "regreso_acompanante": "No incluido",
+        "estancia_familiar": {
+            "diario": "USD 50",
+            "total": "USD 500"
+        },
+        "gastos_hotel_post_hospitalizacion": {
+            "diario": "USD 50",
+            "total": "USD 500"
+        }
+    },
+    "equipaje": {
+        "demora": "Más de 72 hs: USD 150",
+        "extravío": "USD 900 (complementario vuelos internacionales)",
+        "daño": "No incluido",
+        "perdida_total": "No incluido",
+        "localizacion": "Incluido"
+    },
+    "cancelacion_viaje": {
+        "por_retraso_vuelo": "USD 100",
+        "por_covid": "",
+        "todo_concepto": "No incluido",
+        "interrupcion_viaje": "No incluido",
+        "cambios_fecha_ticket": "No incluido"
+    },
+    "accidentes_personales": {
+        "muerte_accidental": "No incluido",
+        "invalidez_total_permanente": "No incluido",
+        "modalidad": "No incluido"
+    },
+    "asistencia_legal": {
+        "honorarios_abogados": "USD 4.000",
+        "adelanto_fianza": "USD 10.000"
+    },
+    "otros": {
+        "wallet_assistance": "Hasta USD 100",
+        "alquiler_notebook": "USD 150",
+        "traduccion_documentos": "Hasta 2.100 palabras",
+        "transferencia_fondos": "USD 2.000",
+        "transmision_mensajes": "Incluido",
+        "linea_consultas": "Incluido",
+        "validez_territorial": "Mundial (excepto país de residencia)",
+        "dias_consecutivos": "Hasta 30 días",
+        "limite_edad": "Sin límite (cobertura se reduce 50% para mayores de 75 años)"
+    }
+}

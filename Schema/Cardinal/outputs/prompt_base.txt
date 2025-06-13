@@ -1,0 +1,26 @@
+🧠 Instrucciones para el modelo de IA:
+Vas a recibir los documentos PDF correspondientes a una compañía de seguros de viaje. Tu tarea es estructurar toda la información relevante en un formato estandarizado.
+
+📄 Tipos de documentos:
+- Condiciones Generales (CCGG): documento base legal.
+- Vouchers: condiciones particulares de cada producto.
+
+⚙️ Objetivo:
+1. Extraer coberturas, montos y condiciones desde CCGG y Vouchers.
+2. Generar:
+   - schema_[compañía].json
+   - producto_[voucher].json (al menos 1 o 2 productos)
+   - documentación.md
+   - prompt_base.txt
+3. Empaquetar todo como .zip para integración.
+
+📁 Estructura esperada:
+/proyecto_seguro_viaje/
+├── [compañía]/
+│   ├── ccgg.pdf / ccgg.txt
+│   ├── vouchers/
+│   └── outputs/
+│       ├── schema_[compañía].json
+│       ├── producto_[voucher].json
+│       ├── documentación.md
+│       └── prompt_base.txt

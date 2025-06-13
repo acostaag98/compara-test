@@ -1,0 +1,59 @@
+{
+    "producto": "AC 1 MILLON",
+    "monto_maximo_global": "USD 1.000.000",
+    "asistencia_medica": {
+        "accidente": "USD 1.000.000",
+        "enfermedad_no_preexistente": "USD 1.000.000",
+        "covid19": "Incluido",
+        "preexistencias": "USD 30.000",
+        "especialistas": "Incluido",
+        "embarazo": "USD 10.000 (hasta semana 26)",
+        "odontologia_urgencia": "USD 1.000 (USD 300 por pieza)",
+        "medicamentos_ambulatorios": "USD 3.000",
+        "medicamentos_hospitalizacion": "Incluido"
+    },
+    "hospitalario": {
+        "traslados_sanitarios": "Incluido",
+        "repatriacion_sanitaria": "USD 100.000",
+        "repatriacion_funeraria": "USD 100.000",
+        "acompanamiento": "Incluido",
+        "traslado_familiar": "Incluido",
+        "estancia_familiar": {
+            "diario": "USD 100",
+            "total": "USD 600"
+        },
+        "gastos_hotel_post_hospitalizacion": {
+            "diario": "USD 180",
+            "total": "USD 1.500"
+        }
+    },
+    "equipaje": {
+        "demora": "USD 50 cada 8 horas (máx USD 300)",
+        "extravío": "USD 4.500 - USD 40 por kg"
+    },
+    "cancelacion_viaje": {
+        "fuerza_mayor": "USD 500",
+        "evento_multiple": "USD 25.000",
+        "por_covid": "USD 1.500",
+        "penalidad_regreso": "USD 1.000",
+        "safe_passport": ""
+    },
+    "accidentes_personales": {
+        "muerte_accidental_transporte": "USD 60.000",
+        "invalidez_total_permanente": "USD 50.000",
+        "monto_maximo_total": "USD 2.500.000"
+    },
+    "asistencia_legal": {
+        "por_accidente": "USD 10.000",
+        "reclamos": "Incluido",
+        "adelanto_fianza": "USD 25.000"
+    },
+    "otros": {
+        "localizacion_equipaje": "Incluido",
+        "robo_documentos": "Incluido",
+        "regreso_anticipado": "Incluido",
+        "validez_territorial": "Internacional",
+        "dias_consecutivos": "Hasta 30 días",
+        "limite_edad": "69 años o menores"
+    }
+}

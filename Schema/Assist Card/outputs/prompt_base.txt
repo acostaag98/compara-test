@@ -1,0 +1,18 @@
+🧠 Prompt base reutilizable para otras compañías:
+
+Recibirás los documentos PDF de una compañía de seguros de viaje.
+Debes estructurar la información de la siguiente manera:
+
+1. Extraé el texto del archivo CCGG y los vouchers.
+2. Clasificá las coberturas en las siguientes categorías estándar:
+   - Asistencia médica (accidente, enfermedad, covid, embarazo, medicamentos)
+   - Equipaje (pérdida, demora)
+   - Cancelación de viaje
+   - Repatriación, muerte, invalidez
+   - Asistencia legal, traslado, hotel
+   - Exclusiones, condiciones territoriales y límites por edad
+3. Creá:
+   - Un archivo `schema_[compañia].json` con todos los campos detectados
+   - 1 o 2 archivos `producto_[voucher].json` con los datos reales
+   - Un `.md` de documentación explicando el análisis
+   - Este mismo prompt adaptado a la nueva compañía

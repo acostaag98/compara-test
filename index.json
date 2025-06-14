@@ -23,5 +23,9 @@
         "producto_internacional_17.json",
         "producto_europa_mundo.json",
         "producto_test.json"
+    ],
+    "Coris": [
+        "producto_sudamerica_mundo.json",
+        "producto_business.json"
     ]
 }

@@ -1,7 +1,23 @@
 {
+    "Interwelt": [
+        "producto_estelar_europa.json",
+        "producto_aventura_17.json"
+    ],
     "Assist Card": [
         "producto_ac_1millon.json",
         "producto_ac_35especial.json"
+    ],
+    "Noma": [
+        "producto_noma_90k.json",
+        "producto_noma_25k.json"
+    ],
+    "Intermac": [
+        "producto_turistico.json",
+        "producto_green_long_stay.json"
+    ],
+    "PAX": [
+        "producto_classy_plus.json",
+        "producto_basic.json"
     ],
     "Cardinal": [
         "producto_internacional_17.json",

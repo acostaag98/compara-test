@@ -1,0 +1,11 @@
+{
+    "Assist Card": [
+        "producto_ac_1millon.json",
+        "producto_ac_35especial.json"
+    ],
+    "Cardinal": [
+        "producto_internacional_17.json",
+        "producto_europa_mundo.json",
+        "producto_test.json"
+    ]
+}

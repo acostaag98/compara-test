@@ -1,0 +1,18 @@
+Procesar PDFs de seguros de viaje que incluyen:
+- Un documento de Condiciones Generales (CCGG)
+- Múltiples vouchers (uno por producto)
+
+Tareas:
+1. Extraer texto del CCGG y vouchers
+2. Crear archivos JSON estandarizados por producto
+3. Generar archivos:
+   - schema_[compañia].json
+   - producto_[voucher].json
+   - documentación.md
+   - prompt_base.txt
+4. Estructura final:
+/proyecto_seguro_viaje/
+└── [compañia]/
+    ├── ccgg.pdf / ccgg.txt
+    ├── vouchers/
+    └── outputs/

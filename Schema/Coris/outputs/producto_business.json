@@ -1,0 +1,59 @@
+{
+    "producto": "Business",
+    "monto_maximo_global": "USD 250.000",
+    "asistencia_medica": {
+        "accidente": "USD 250.000",
+        "enfermedad_no_preexistente": "USD 250.000",
+        "covid19": "Incluido",
+        "preexistencias": "USD 1.000 (1º asistencia)",
+        "embarazo": "USD 10.000",
+        "odontologia": "USD 750",
+        "medicamentos": "USD 1.500",
+        "especialistas": "",
+        "internacion": "",
+        "terapias": "",
+        "examenes": ""
+    },
+    "hospitalario": {
+        "traslado_sanitario": "Incluido",
+        "repatriacion_sanitaria": "Incluido",
+        "repatriacion_funeraria": "Incluido",
+        "regreso_anticipado": "Sí",
+        "acompanamiento": "Sí (menores)",
+        "estancia_familiar": {
+            "hotel": "Hotel",
+            "aereo": "Tkt Aéreo"
+        },
+        "hotel_postalta": {
+            "monto": "USD 800"
+        }
+    },
+    "equipaje": {
+        "demora": "USD 300 + 500",
+        "extravío": "USD 1.200",
+        "localizacion": "Sí",
+        "documentos": "Sí"
+    },
+    "cancelacion_viaje": {
+        "por_covid": "",
+        "por_eventos": "USD 600",
+        "interrupcion": "",
+        "modificacion_viaje": ""
+    },
+    "accidentes_personales": {
+        "muerte_accidental": "",
+        "invalidez_permanente": ""
+    },
+    "asistencia_legal": {
+        "abogados": "USD 4.000",
+        "fianza": "USD 15.000"
+    },
+    "otros": {
+        "adelanto_fondos": "USD 6.000",
+        "transmision_mensajes": "Sí",
+        "linea_consultas": "Sí",
+        "validez_territorial": "Mundial excepto país de residencia",
+        "limite_edad": "Hasta 76/99 con incremento del 50%",
+        "dias_max_viaje": ""
+    }
+}

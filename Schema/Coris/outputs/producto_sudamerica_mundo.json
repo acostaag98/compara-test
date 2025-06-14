@@ -1,0 +1,59 @@
+{
+    "producto": "Sudamérica y Mundo",
+    "monto_maximo_global": "USD 18.000",
+    "asistencia_medica": {
+        "accidente": "USD 18.000",
+        "enfermedad_no_preexistente": "USD 18.000",
+        "covid19": "Incluido",
+        "preexistencias": "USD 250",
+        "embarazo": "",
+        "odontologia": "USD 250",
+        "medicamentos": "Incluido",
+        "especialistas": "Incluido",
+        "internacion": "",
+        "terapias": "",
+        "examenes": ""
+    },
+    "hospitalario": {
+        "traslado_sanitario": "Incluido",
+        "repatriacion_sanitaria": "Incluido",
+        "repatriacion_funeraria": "Incluido",
+        "regreso_anticipado": "TKT Aéreo",
+        "acompanamiento": "",
+        "estancia_familiar": {
+            "hotel": "USD 50",
+            "aereo": "Tkt Aéreo"
+        },
+        "hotel_postalta": {
+            "monto": "USD 1.000"
+        }
+    },
+    "equipaje": {
+        "demora": "",
+        "extravío": "USD 500",
+        "localizacion": "Sí",
+        "documentos": "Sí"
+    },
+    "cancelacion_viaje": {
+        "por_covid": "",
+        "por_eventos": "",
+        "interrupcion": "",
+        "modificacion_viaje": ""
+    },
+    "accidentes_personales": {
+        "muerte_accidental": "",
+        "invalidez_permanente": ""
+    },
+    "asistencia_legal": {
+        "abogados": "USD 2.000",
+        "fianza": "USD 1.000"
+    },
+    "otros": {
+        "adelanto_fondos": "",
+        "transmision_mensajes": "Sí",
+        "linea_consultas": "Sí",
+        "validez_territorial": "Mundial excepto país de residencia",
+        "limite_edad": "Hasta 75/85 con incremento del 50%",
+        "dias_max_viaje": "120 días"
+    }
+}

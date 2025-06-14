@@ -1,0 +1,60 @@
+{
+    "producto": "Estelar Europa",
+    "monto_maximo_global": "EUR 30.000",
+    "asistencia_medica": {
+        "accidente": "EUR 30.000",
+        "enfermedad_no_preexistente": "EUR 30.000",
+        "covid19": "EUR 1.000",
+        "preexistencias": "No incluido",
+        "embarazo": "No incluido",
+        "odontologia": "EUR 300",
+        "internacion": "Incluido",
+        "medicamentos": "Incluido",
+        "especialistas": "Incluido",
+        "terapias": "No incluido",
+        "examenes": "Incluido"
+    },
+    "hospitalario": {
+        "traslado_sanitario": "Incluido",
+        "repatriacion_sanitaria": "Incluido",
+        "repatriacion_funeraria": "Incluido",
+        "regreso_anticipado": "Incluido",
+        "acompanamiento": "Incluido",
+        "estancia_familiar": {
+            "diario": "EUR 100",
+            "total": "EUR 300"
+        },
+        "hotel_postalta": {
+            "diario": "EUR 100",
+            "total": "EUR 300"
+        }
+    },
+    "equipaje": {
+        "demora": "EUR 150 (72h)",
+        "extravío": "EUR 1.000",
+        "localizacion": "Incluido",
+        "documentos": "Incluido"
+    },
+    "cancelacion_viaje": {
+        "por_covid": "EUR 300",
+        "por_eventos": "No incluido",
+        "interrupcion": "No incluido",
+        "modificacion_viaje": "No incluido"
+    },
+    "accidentes_personales": {
+        "muerte_accidental": "EUR 20.000",
+        "invalidez_permanente": "EUR 20.000"
+    },
+    "asistencia_legal": {
+        "abogados": "EUR 1.000",
+        "fianza": "EUR 5.000"
+    },
+    "otros": {
+        "adelanto_fondos": "Incluido",
+        "transmision_mensajes": "Incluido",
+        "linea_consultas": "Incluido",
+        "validez_territorial": "Europa + Espacio Schengen",
+        "limite_edad": "Sin límite",
+        "dias_max_viaje": "Hasta 30 días"
+    }
+}

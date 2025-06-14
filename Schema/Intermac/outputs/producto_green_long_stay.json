@@ -1,0 +1,60 @@
+{
+    "producto": "Green Long Stay",
+    "monto_maximo_global": "USD 60.000",
+    "asistencia_medica": {
+        "accidente": "USD 60.000",
+        "enfermedad_no_preexistente": "USD 60.000",
+        "covid19": "USD 1.000",
+        "preexistencias": "USD 300",
+        "embarazo": "USD 500",
+        "odontologia": "USD 300",
+        "internacion": "Incluido",
+        "medicamentos": "Incluido",
+        "especialistas": "Incluido",
+        "terapias": "Incluido",
+        "examenes": "Incluido"
+    },
+    "hospitalario": {
+        "traslado_sanitario": "Incluido",
+        "repatriacion_sanitaria": "Incluido",
+        "repatriacion_funeraria": "USD 5.000",
+        "regreso_anticipado": "Incluido",
+        "acompanamiento": "Incluido",
+        "estancia_familiar": {
+            "diario": "USD 100",
+            "total": "USD 300"
+        },
+        "hotel_postalta": {
+            "diario": "USD 100",
+            "total": "USD 300"
+        }
+    },
+    "equipaje": {
+        "demora": "USD 150 (72h)",
+        "extravío": "USD 1.200",
+        "localizacion": "Incluido",
+        "documentos": "Incluido"
+    },
+    "cancelacion_viaje": {
+        "por_covid": "USD 300",
+        "por_eventos": "No incluido",
+        "interrupcion": "No incluido",
+        "modificacion_viaje": "No incluido"
+    },
+    "accidentes_personales": {
+        "muerte_accidental": "USD 10.000",
+        "invalidez_permanente": "USD 10.000"
+    },
+    "asistencia_legal": {
+        "abogados": "USD 1.000",
+        "fianza": "USD 5.000"
+    },
+    "otros": {
+        "adelanto_fondos": "Incluido",
+        "transmision_mensajes": "Incluido",
+        "linea_consultas": "Incluido",
+        "validez_territorial": "Mundial",
+        "limite_edad": "Sin límite",
+        "dias_max_viaje": "Hasta 180 días"
+    }
+}

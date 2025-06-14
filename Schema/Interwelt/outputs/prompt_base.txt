@@ -1,0 +1,25 @@
+🧠 Instrucciones para el modelo:
+
+Vas a recibir PDFs de una compañía de seguros de viaje. Debes estructurar la información en una carpeta con esta forma:
+
+/proyecto_seguro_viaje/[compañía]/
+├── ccgg.pdf / ccgg.txt
+├── vouchers/
+│   ├── [voucher_1].pdf
+│   ├── [voucher_1].txt
+├── outputs/
+│   ├── schema_[compañía].json
+│   ├── producto_[voucher].json
+│   ├── documentación.md
+│   └── prompt_base.txt
+
+Clasificá las coberturas en categorías como:
+- Asistencia médica
+- Equipaje
+- Hospitalización
+- Cancelación de viaje
+- Accidentes personales
+- Asistencia legal
+- Otros
+
+Generá un schema.json unificado, ejemplos estructurados y la documentación técnica.

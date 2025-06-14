@@ -1,0 +1,23 @@
+Recibirás archivos PDF de una compañía de seguros de viaje.
+
+Tu tarea es:
+1. Extraer el texto del CCGG y cada voucher.
+2. Estructurar la información en JSON agrupado en:
+   - asistencia_medica
+   - hospitalario
+   - equipaje
+   - cancelacion_viaje
+   - accidentes_personales
+   - asistencia_legal
+   - otros
+3. Crear:
+   - schema_[compañia].json
+   - producto_[voucher].json
+   - documentación.md
+   - prompt_base.txt
+4. Seguir la estructura:
+/proyecto_seguro_viaje/
+└── [compañia]/
+    ├── ccgg.pdf / ccgg.txt
+    ├── vouchers/
+    └── outputs/

@@ -1,0 +1,54 @@
+{
+    "producto": "",
+    "monto_maximo_global": "",
+    "asistencia_medica": {
+        "accidente": "",
+        "enfermedad_no_preexistente": "",
+        "covid19": "",
+        "preexistencias": "",
+        "embarazo": "",
+        "odontologia": "",
+        "medicamentos": "",
+        "especialistas": "",
+        "internacion": "",
+        "terapias": "",
+        "examenes": ""
+    },
+    "hospitalario": {
+        "traslado_sanitario": "",
+        "repatriacion_sanitaria": "",
+        "repatriacion_funeraria": "",
+        "regreso_anticipado": "",
+        "acompanamiento": "",
+        "estancia_familiar": {},
+        "hotel_postalta": {}
+    },
+    "equipaje": {
+        "demora": "",
+        "extravío": "",
+        "localizacion": "",
+        "documentos": ""
+    },
+    "cancelacion_viaje": {
+        "por_covid": "",
+        "por_eventos": "",
+        "interrupcion": "",
+        "modificacion_viaje": ""
+    },
+    "accidentes_personales": {
+        "muerte_accidental": "",
+        "invalidez_permanente": ""
+    },
+    "asistencia_legal": {
+        "abogados": "",
+        "fianza": ""
+    },
+    "otros": {
+        "adelanto_fondos": "",
+        "transmision_mensajes": "",
+        "linea_consultas": "",
+        "validez_territorial": "",
+        "limite_edad": "",
+        "dias_max_viaje": ""
+    }
+}

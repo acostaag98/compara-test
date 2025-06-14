@@ -1,0 +1,25 @@
+🧠 Instrucciones para el modelo:
+
+Recibirás PDFs de una aseguradora de viajes. Tu tarea es extraer texto, clasificar coberturas y generar:
+
+/proyecto_seguro_viaje/[compañía]/
+├── ccgg.pdf / ccgg.txt
+├── vouchers/
+│   ├── [voucher_1].pdf
+│   ├── [voucher_1].txt
+├── outputs/
+│   ├── schema_[compañía].json
+│   ├── producto_[voucher].json
+│   ├── documentación.md
+│   └── prompt_base.txt
+
+Detectá coberturas de:
+- Asistencia médica
+- Equipaje
+- Hospitalización
+- Cancelaciones
+- Accidentes personales
+- Asistencia legal
+- Otros
+
+Luego estructurá el JSON base (`schema`) y 1–2 ejemplos de producto.

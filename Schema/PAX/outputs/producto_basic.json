@@ -1,0 +1,60 @@
+{
+    "producto": "Basic",
+    "monto_maximo_global": "USD 30.000",
+    "asistencia_medica": {
+        "accidente": "USD 30.000",
+        "enfermedad_no_preexistente": "USD 30.000",
+        "covid19": "Incluido",
+        "preexistencias": "USD 6.000",
+        "embarazo": "USD 5.000 (hasta semana 26)",
+        "odontologia": "USD 300",
+        "medicamentos": "USD 800",
+        "especialistas": "Incluido",
+        "internacion": "8 días",
+        "terapias": "",
+        "examenes": ""
+    },
+    "hospitalario": {
+        "traslado_sanitario": "Incluido",
+        "repatriacion_sanitaria": "Incluido",
+        "repatriacion_funeraria": "Incluido",
+        "regreso_anticipado": "Incluido",
+        "acompanamiento": "Incluido (menores 15 / mayores 75)",
+        "estancia_familiar": {
+            "diario": "USD 100",
+            "total": "USD 400"
+        },
+        "hotel_postalta": {
+            "diario": "USD 150",
+            "total": "USD 500"
+        }
+    },
+    "equipaje": {
+        "demora": "USD 150",
+        "extravío": "USD 1.200",
+        "localizacion": "Incluido",
+        "documentos": "Incluido"
+    },
+    "cancelacion_viaje": {
+        "por_covid": "USD 200",
+        "por_eventos": "USD 25.000",
+        "interrupcion": "",
+        "modificacion_viaje": ""
+    },
+    "accidentes_personales": {
+        "muerte_accidental": "",
+        "invalidez_permanente": ""
+    },
+    "asistencia_legal": {
+        "abogados": "USD 3.000",
+        "fianza": "USD 3.000"
+    },
+    "otros": {
+        "adelanto_fondos": "USD 3.000",
+        "transmision_mensajes": "Incluido",
+        "linea_consultas": "Incluido",
+        "validez_territorial": "Mundial excepto país de residencia",
+        "limite_edad": "menores de 75 años",
+        "dias_max_viaje": "120 días"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "producto": "Noma 90K",
+    "monto_maximo_global": "USD 90.000",
+    "asistencia_medica": {
+        "accidente": "USD 90.000",
+        "enfermedad_no_preexistente": "USD 90.000",
+        "covid19": "USD 50.000",
+        "preexistencias": "USD 1.000",
+        "embarazo": "USD 800",
+        "odontologia": "USD 400",
+        "medicamentos": "Incluido",
+        "especialistas": "No aplica",
+        "internacion": "3 días",
+        "terapias": "",
+        "examenes": ""
+    },
+    "hospitalario": {
+        "traslado_sanitario": "Incluido",
+        "repatriacion_sanitaria": "Incluido",
+        "repatriacion_funeraria": "Incluido",
+        "regreso_anticipado": "TKT Clase Econ.",
+        "acompanamiento": "TKT Clase Econ. (mayores de 75 y menores de 15)",
+        "estancia_familiar": {
+            "hotel_postalta": "USD 800"
+        },
+        "hotel_postalta": {}
+    },
+    "equipaje": {
+        "demora": "Incluido (VIP lounge)",
+        "extravío": "USD 700",
+        "localizacion": "Incluido",
+        "documentos": "Incluido"
+    },
+    "cancelacion_viaje": {
+        "por_covid": "USD 300",
+        "por_eventos": "",
+        "interrupcion": "",
+        "modificacion_viaje": ""
+    },
+    "accidentes_personales": {
+        "muerte_accidental": "",
+        "invalidez_permanente": ""
+    },
+    "asistencia_legal": {
+        "abogados": "USD 1.500",
+        "fianza": "USD 10.000"
+    },
+    "otros": {
+        "adelanto_fondos": "USD 10.000",
+        "transmision_mensajes": "Incluido",
+        "linea_consultas": "Incluido",
+        "validez_territorial": "Mundial, excepto país de residencia",
+        "limite_edad": "45 años / 46–60: recargo 35%",
+        "dias_max_viaje": "90 días"
+    }
+}

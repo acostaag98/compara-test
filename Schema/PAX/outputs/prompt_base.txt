@@ -1,0 +1,19 @@
+Recibirás PDFs de seguros de viaje con:
+- Un archivo de Condiciones Generales (CCGG)
+- Varios vouchers (productos específicos)
+
+Debes:
+1. Extraer texto de CCGG y vouchers
+2. Estandarizar coberturas en JSON con categorías:
+   asistencia_medica, hospitalario, equipaje, cancelacion_viaje, accidentes_personales, asistencia_legal, otros
+3. Crear:
+   - schema_[compañia].json
+   - producto_[voucher].json
+   - documentación.md
+   - prompt_base.txt
+4. Usar esta estructura:
+/proyecto_seguro_viaje/
+└── [compañia]/
+    ├── ccgg.pdf / ccgg.txt
+    ├── vouchers/
+    └── outputs/
